@@ -1,7 +1,7 @@
 import unittest
 
 from observable import Observable
-from tests.mock import Mock
+from unittest.mock import Mock
 
 
 class ObserverTestCase(unittest.TestCase):
